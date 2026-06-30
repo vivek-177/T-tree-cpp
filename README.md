@@ -48,10 +48,10 @@ g++ -std=c++17 -O2 src/ttree.cpp -o ttree
 ## Time Complexity
 
 | Operation | Complexity |
-|-----------|------------|
-| Search | O(log n) |
-| Insert | O(log n) |
-| Delete | O(log n) |
+| --------- | ---------- |
+| Search    | O(log n)   |
+| Insert    | O(log n)   |
+| Delete    | O(log n)   |
 
 ## Highlights
 
@@ -63,6 +63,4 @@ g++ -std=c++17 -O2 src/ttree.cpp -o ttree
 
 ## References
 
-- Lehman, T. J., & Carey, M. J. (1986). *A Study of Index Structures for Main Memory Database Management Systems*. Proceedings of the 12th VLDB Conference.
-
-- 
+- Lehman, T. J., & Carey, M. J. (1986). _A Study of Index Structures for Main Memory Database Management Systems_. Proceedings of the 12th VLDB Conference.
