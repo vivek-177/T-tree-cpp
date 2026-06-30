@@ -63,4 +63,10 @@ g++ -std=c++17 -O2 src/ttree.cpp -o ttree
 
 ## References
 
+<<<<<<< HEAD
 - Lehman, T. J., & Carey, M. J. (1986). _A Study of Index Structures for Main Memory Database Management Systems_. Proceedings of the 12th VLDB Conference.
+=======
+- Lehman, T. J., & Carey, M. J. (1986). *A Study of Index Structures for Main Memory Database Management Systems*. Proceedings of the 12th VLDB Conference.
+
+- ...
+>>>>>>> 29a406e57470900c2cc9ae75ac8cd9317fe1cfbe
